@@ -3,21 +3,15 @@
 </div>   -->
   
 
-# Hey, I am Ebuka Moses 🚀  
-  
+# Hey, I am Ebuka Moses 👋🏾  
 
-- 🔭  I’m a Frontend engineering.
+A Software Developer / Graphics Design focused on (HTML/CSS, JavaScript, WordPress, React, PHP, Mysql). Hit me up <a href="mailto:okoyemoses83@gmail.com">here</a> for a gig
   
-
-- 🌱 I’m a Graphics Designer.  
-  
-
-- ❓ Ask me about anything related to HTML/CSS, JavaScript, WordPress, React, PHP, Mysql and related technologies  
-  
-
-- ⚡ How to reach me: Send me an email <a href="mailto:okoyemoses83@gmail.com">here</a>  
 
 ## Connect with me  
+<a href="https://wa.me/2347038689968?text=Hello%20Ebuka%20Moses" target="_blank">
+<img src="https://camo.githubusercontent.com/d6c3581c3a21992a49418db053fb20fa0d7784e2db55e152ab4f5386beaac0d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57484154534150502d2532333235443336362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&amp;style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
+</a>
 <a href="https://twitter.com/bukan_moses" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
