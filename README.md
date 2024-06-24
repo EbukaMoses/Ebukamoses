@@ -5,7 +5,7 @@
 
 # Hey, I am Ebuka Moses 👋🏾  
 
-A Software Developer / Graphics Design focused on (HTML/CSS, JavaScript, WordPress, React, PHP, Mysql). Hit me up <a href="mailto:okoyemoses83@gmail.com">here</a> for a gig
+A Software Developer / Graphics Design focused on (HTML, CSS, Tailwind Css, Sass, Bootstrap, JavaScript, React, Express, Node, MongoDB, PHP, Mysql, WordPress). Hit me up <a href="mailto:okoyemoses83@gmail.com">here</a> for a gig
 
 
 ## Profile Viewers  
